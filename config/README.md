@@ -6,4 +6,6 @@ This is where all the configurations are done
 * Database details
 * jsonwebtoken key
 
-[storage.js](https://github.com/judeclassic/Kinco_server/blob/main/config/storage_engine.js) is the configurations for storing file
+[storage_engine.js](https://github.com/judeclassic/Kinco_server/blob/main/config/storage_engine.js) is the configurations for storing file
+
+[db.js](https://github.com/judeclassic/Kinco_server/blob/main/config/db.js) is to connect the mongo database
